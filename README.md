@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science and machine learning
 - 🌱 I’m currently learning Python, R language, and C
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...we can meet here
+- 📫 How to reach me ...mailto:kevinobote49@gmail.com
 
 <!---
 Kevinobote/Kevinobote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
