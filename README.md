@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kevinobote
 - 👀 I’m interested in Data science and machine learning
-- 🌱 I’m currently learning Python, R language, and C
+- 🌱 I’m currently learning Python and R language.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...mailto:kevinobote49@gmail.com
 
