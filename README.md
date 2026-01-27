@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥I'm currently work on machine learning implementation and deployment<br>📚I'm interested in learning and improving my skills in research.<br>📊I'm currently learning data engineering.<br>💻I'm looking to collaborate on any data science  and machine learning projects.
+🖥I'm currently work on machine learning implementation and deployment<br>📚I'm interested in learning and improving my skills in research.<br>📊I'm currently learning lm harnessing.<br>💻I'm looking to collaborate on any data science  and machine learning projects.
 
 
 ## 🌐 Socials:
