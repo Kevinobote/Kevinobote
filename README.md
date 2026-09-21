@@ -2,7 +2,7 @@
 
 AI Researcher building NLP infrastructure for low-resource African languages: stopword corpora, morphological analysers, and evaluation benchmarks for Kiswahili and other Bantu languages, plus low-resource speech recognition (ASR).
 
-- 💼 Lead AI Systems Engineer at [Guild Code](https://kevin.guild-code.com); Technical Lead at Msingi AI; Research Scholar at iLabAfrica, Strathmore University
+- 💼 Lead AI Systems Engineer at [Guild Code](https://kevin.guild-code.com); Technical Lead at [Msingi AI](https://www.msingiai.com/); Research Scholar at iLabAfrica, Strathmore University
 - 🌍 Dataset Evaluation Lead at [KenyaNLP](https://github.com/Kevinobote/kenyanlp-website), a Masakhane-affiliated research community
 - 📄 Established the first documented ASR baseline for Kalenjin (accepted, IEEE Xplore, AAIAC 2026)
 - 🔗 Portfolio: [kevin.guild-code.com](https://kevin.guild-code.com/)
@@ -18,7 +18,8 @@ AI Researcher building NLP infrastructure for low-resource African languages: st
 ## 📚 Publications
 
 - Obote, K., Kikwai, B., Senagi, K., Njiiri, J., Olukuru, J., & Sevilla, J. (2025). [Bridging Swahili Communication Gaps: Real-Time Audio-to-Text Sentiment Analysis via Pre-trained NLP](https://doi.org/10.11648/j.ajai.20250902.18). *American Journal of Artificial Intelligence*, 9(2), 167–185.
-- Obote, K., & Kikwai, B. (2026). The Case for Swahili NLP: Addressing Linguistic Gaps in a Vital African Language. *Arusha Working Papers in African Linguistics*.
+- Obote, K., & Kikwai, B. (2026). [The Case for Swahili NLP: Addressing Linguistic Gaps in a Vital African Language](https://arushalinguistics.org/publications/Obote_Kikwai_AWPAL_2026.pdf). *Arusha Working Papers in African Linguistics*.
+- Makokha, A., Obote, K., Muchiri, H., & Senagi, K. (2026). [Predicting Customer Churn in the Telecommunications Industry using Machine Learning Techniques](https://www.sciencepublishinggroup.com/article/10.11648/j.ajnc.20261501.12). *American Journal of Networks and Communications*, 15(1), 10–26.
 - Obote, K., et al. (2026). Low-Resource ASR for Kalenjin: Two-Stage Fine-Tuning of Wav2Vec2-XLS-R with KenLM Integration. *AAIAC 2026* (accepted, IEEE Xplore).
 
 ## 🌐 Socials
