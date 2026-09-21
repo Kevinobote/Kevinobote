@@ -2,8 +2,7 @@
 
 AI Researcher building NLP infrastructure for low-resource African languages: stopword corpora, morphological analysers, and evaluation benchmarks for Kiswahili and other Bantu languages, plus low-resource speech recognition (ASR).
 
-- 🎓 Preparing a PhD application (Commonwealth Scholarship, 2027/28 cycle) on foundational NLP resources for Bantu languages
-- 💼 Lead AI Systems Engineer at [Guild Code](https://kevin.guild-code.com); Research Scholar at iLabAfrica, Strathmore University
+- 💼 Lead AI Systems Engineer at [Guild Code](https://kevin.guild-code.com); Technical Lead at Msingi AI; Research Scholar at iLabAfrica, Strathmore University
 - 🌍 Dataset Evaluation Lead at [KenyaNLP](https://github.com/Kevinobote/kenyanlp-website), a Masakhane-affiliated research community
 - 📄 Established the first documented ASR baseline for Kalenjin (accepted, IEEE Xplore, AAIAC 2026)
 - 📫 kevinobote49@gmail.com · [ORCID](https://orcid.org/0009-0000-7099-2154) · [LinkedIn](https://linkedin.com/in/kevinobote)
