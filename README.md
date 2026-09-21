@@ -5,21 +5,19 @@ AI Researcher building NLP infrastructure for low-resource African languages: st
 - 💼 Lead AI Systems Engineer at [Guild Code](https://kevin.guild-code.com); Technical Lead at Msingi AI; Research Scholar at iLabAfrica, Strathmore University
 - 🌍 Dataset Evaluation Lead at [KenyaNLP](https://github.com/Kevinobote/kenyanlp-website), a Masakhane-affiliated research community
 - 📄 Established the first documented ASR baseline for Kalenjin (accepted, IEEE Xplore, AAIAC 2026)
+- 🔗 Portfolio: [kevin.guild-code.com](https://kevin.guild-code.com/)
 - 📫 kevinobote49@gmail.com · [ORCID](https://orcid.org/0009-0000-7099-2154) · [LinkedIn](https://linkedin.com/in/kevinobote)
 
 ## 🔬 Featured Research Projects
 
 | Project | Description |
 |---|---|
-| [**Kalenjin-ASR**](https://github.com/Kevinobote/Kalenjin-ASR) | Two-stage fine-tuning of Wav2Vec2-XLS-R with KenLM integration; first documented ASR baseline for Kalenjin (accepted, AAIAC 2026, IEEE Xplore) |
-| [**swahili-stopwords-nltk**](https://github.com/Kevinobote/swahili-stopwords-nltk) | Statistically grounded, linguistically informed pipeline for constructing a Kiswahili stopword corpus (frequency analysis, Zipf's law, TF-IDF, morphology-aware filtering) for NLTK integration |
 | [**Kevin_MSc_Dissertation**](https://github.com/Kevinobote/Kevin_MSc_Dissertation) | *A Novel Kiswahili Audio Processing Pipeline*: end-to-end ASR, sentiment analysis, and text summarisation for Kiswahili (Strathmore University, 2026) |
-| [**kenyanlp-website**](https://github.com/Kevinobote/kenyanlp-website) | Official website for KenyaNLP, advancing language technology for Kenya's 40+ indigenous languages |
 | [**From-Predictive-to-Generative-AI**](https://github.com/Kevinobote/From-Predictive-to-Generative-AI) | Workshop on the shift from predictive to generative AI, presented at UbuCon Africa 2026 |
 
 ## 📚 Publications
 
-- Obote, K., Kikwai, B., Senagi, K., Njiiri, J., Olukuru, J., & Sevilla, J. (2025). Bridging Swahili Communication Gaps: Real-Time Audio-to-Text Sentiment Analysis via Pre-trained NLP. *American Journal of Artificial Intelligence*, 9(2), 167–185.
+- Obote, K., Kikwai, B., Senagi, K., Njiiri, J., Olukuru, J., & Sevilla, J. (2025). [Bridging Swahili Communication Gaps: Real-Time Audio-to-Text Sentiment Analysis via Pre-trained NLP](https://doi.org/10.11648/j.ajai.20250902.18). *American Journal of Artificial Intelligence*, 9(2), 167–185.
 - Obote, K., & Kikwai, B. (2026). The Case for Swahili NLP: Addressing Linguistic Gaps in a Vital African Language. *Arusha Working Papers in African Linguistics*.
 - Obote, K., et al. (2026). Low-Resource ASR for Kalenjin: Two-Stage Fine-Tuning of Wav2Vec2-XLS-R with KenLM Integration. *AAIAC 2026* (accepted, IEEE Xplore).
 
