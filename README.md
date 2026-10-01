@@ -2,7 +2,7 @@
 
 AI Researcher building NLP infrastructure for low-resource African languages: stopword corpora, morphological analysers, and evaluation benchmarks for Kiswahili and other Bantu languages, plus low-resource speech recognition (ASR).
 
-- 💼 Lead AI Systems Engineer at [Guild Code](https://kevin.guild-code.com); Cofounder & CTO at [Msingi AI](https://www.msingiai.com/); Research Scholar at iLabAfrica, Strathmore University
+- 💼 Founder & Lead Machine Learning Engineer at [Guild Code](https://kevin.guild-code.com); Cofounder & CTO at [Msingi AI](https://www.msingiai.com/); Research Scholar at iLabAfrica, Strathmore University
 - 🌍 Dataset Evaluation Lead at [KenyaNLP](https://github.com/Kevinobote/kenyanlp-website), a Masakhane-affiliated research community
 - 📄 Established the first documented ASR baseline for Kalenjin (accepted, IEEE Xplore, AAIAC 2026)
 - 🔗 Portfolio: [kevin.guild-code.com](https://kevin.guild-code.com/)
