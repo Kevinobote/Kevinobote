@@ -12,7 +12,7 @@ Machine Learning Engineer and AI Researcher building NLP infrastructure for low-
 
 | Project | What it is |
 |---|---|
-| [**Kalenjin-ASR**](https://github.com/Kevinobote/Kalenjin-ASR) | First documented ASR baseline for Kalenjin: two-stage Wav2Vec2-XLS-R fine-tuning + KenLM. CER 20.1%, about half the CER of the best model on PazaBench. AAIAC 2026 · [🤗 model](https://huggingface.co/RareElf/kalenjin-asr) |
+| [**Kalenjin-ASR**](https://github.com/Kevinobote/Kalenjin-ASR) | Documented ASR baseline for Kalenjin: two-stage Wav2Vec2-XLS-R fine-tuning + KenLM. CER 20.1%, about half the CER of the best model on PazaBench. AAIAC 2026 · [🤗 model](https://huggingface.co/RareElf/kalenjin-asr) |
 | [**Kiswahili-Kitukuzwe**](https://github.com/Kevinobote/Kiswahili-Kitukuzwe) | End-to-end Kiswahili audio pipeline (ASR → sentiment → summarisation) served with FastAPI; code for my [MSc dissertation](https://github.com/Kevinobote/Kevin_MSc_Dissertation) |
 | [**swahili-stopwords-nltk**](https://github.com/Kevinobote/swahili-stopwords-nltk) | Swahili stopword corpus for NLTK, built from frequency, Zipf and TF-IDF analysis plus morphology rules |
 | [**naira-currency-benchmark**](https://github.com/Kevinobote/naira-currency-benchmark) | Naira banknote classification benchmark with a duplicate audit, 5-fold CV, calibration and a data-leakage experiment |
