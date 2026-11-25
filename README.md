@@ -4,7 +4,7 @@ Machine Learning Engineer and AI Researcher building NLP infrastructure for low-
 
 - 💼 Founder & Lead Machine Learning Engineer at [Guild Code](https://kevin.guild-code.com); Cofounder & CTO at [Msingi AI](https://www.msingiai.com/)
 - 🌍 Dataset Evaluation Lead at [KenyaNLP](https://github.com/Kevinobote/kenyanlp-website), a research community
-- 📄 Established the first documented ASR baseline for Kalenjin (accepted, IEEE Xplore, AAIAC 2026)
+- 📄 Established a documented ASR baseline for Kalenjin (accepted, IEEE Xplore, AAIAC 2026)
 - 🔗 Portfolio: [kevin.guild-code.com](https://kevin.guild-code.com/)
 - 📫 kevinobote49@gmail.com · [ORCID](https://orcid.org/0009-0000-7099-2154) · [LinkedIn](https://linkedin.com/in/kevinobote)
 
